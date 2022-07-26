@@ -15,3 +15,9 @@ Go to the code directory, and compile source file with a C compiler (for example
 gcc ./game-of-life.c -o ./game-of-life
 ```
 
+run it with:
+
+```
+./game-of-life
+```
+
